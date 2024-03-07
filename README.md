@@ -20,8 +20,8 @@
   4. Inquirer.js Version 8.2.4
 
   ## Screenshots
-
   
+<img width="1090" alt="test" src="https://github.com/ryloaf/svg-logo-maker/assets/151485696/0fb89634-9f71-488f-abf7-42d744949011">
 
   ## Links
 
