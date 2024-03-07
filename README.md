@@ -24,8 +24,8 @@
 
   ## Links
 
-[Project Repository](https://github.com/ryloaf/svg-logo-maker)
-[Walkthrough Video](https://app.screencastify.com/v3/watch/69Efr6dHtAaTZ254n1hn)
+- [Project Repository](https://github.com/ryloaf/svg-logo-maker)
+- [Walkthrough Video](https://app.screencastify.com/v3/watch/69Efr6dHtAaTZ254n1hn)
 
   ## Credits
   
