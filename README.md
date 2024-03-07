@@ -1,5 +1,4 @@
-# Project Title
-   SVG Logo Generator
+# SVG Logo Generator
 
   ## Description
   This challenge tasked me with building a node.js application that enables the user to generate a simple logo. In the command-line, the user will enter inputs into an inquirer prompt to generate a logo which saves an as SVG image.   
@@ -25,7 +24,8 @@
 
   ## Links
 
-
+[Project Repository](https://github.com/ryloaf/svg-logo-maker)
+[Walkthrough Video](https://app.screencastify.com/v3/watch/69Efr6dHtAaTZ254n1hn)
 
   ## Credits
   
