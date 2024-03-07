@@ -22,6 +22,8 @@
   
 <img width="1090" alt="test" src="https://github.com/ryloaf/svg-logo-maker/assets/151485696/0fb89634-9f71-488f-abf7-42d744949011">
 
+<img width="232" alt="generated-logo-example" src="https://github.com/ryloaf/svg-logo-maker/assets/151485696/e46cc0d7-522d-4ffa-a215-f87103b467c5">
+
   ## Links
 
 - [Project Repository](https://github.com/ryloaf/svg-logo-maker)
