@@ -1,7 +1,9 @@
 const fs = require('./node_modules/graceful-fs/graceful-fs')
 const inquirer = require('inquirer');
 const {Circle, Square, Triangle} = require("./lib/shapes");
+// Imports the graceful-fs, inquirer and shape modules ^
 
+// Defines an SVG class with a constructor for rendering and setting the elements in the string
 class Svg {
     constructor() {
         this.textElement = '';
@@ -59,7 +61,11 @@ function writeToFile(fileName, data) {
 
 async function init() {
     console.log('Starting init');
+
+    // Prompts user for their answers
     const answers = await inquirer.prompt(questions);
+
+    // Defining elements needed for logo
     var svgString = '';
     var svg_file = 'logo.svg';
     var user_shape_type = answers['pixel-image'];
@@ -90,7 +96,7 @@ async function init() {
 
     user_shape.setColor(user_shape_color);
 
-
+    // Creates a new SVG and add the elements to it
     var svg = new Svg();
     svg.setTextElement(user_text, user_font_color);
     svg.setShapeElement(user_shape);
